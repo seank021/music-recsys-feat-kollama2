@@ -1,2 +1,4 @@
 # music_recsys_feat_kollama2
-음악 추천 시스템
+
+- 2023 OSSCA(Open Source Contribution Academy) Team HuggingFace Mini Project 
+- song recommendation system based on user input query using melon data
